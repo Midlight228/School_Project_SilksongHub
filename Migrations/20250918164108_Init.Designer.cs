@@ -9,7 +9,7 @@ using WebApplication1.Data;
 
 #nullable disable
 
-namespace WebApplication1.Migrations
+namespace School_Project_SilksongHub.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20250918164108_Init")]

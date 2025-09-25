@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using WebApplication1.Data;
+using School_Project_SilksongHub.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

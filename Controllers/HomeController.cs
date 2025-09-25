@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using WebApplication1.Models;
+using School_Project_SilksongHub.Models;
 
-namespace WebApplication1.Controllers
+namespace School_Project_SilksongHub.Controllers
 {
     public class HomeController : Controller
     {

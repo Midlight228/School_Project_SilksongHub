@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace WebApplication1.Migrations
+namespace School_Project_SilksongHub.Migrations
 {
     /// <inheritdoc />
     public partial class Init : Migration

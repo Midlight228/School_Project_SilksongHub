@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace WebApplication1.Models
+namespace School_Project_SilksongHub.Models
 {
     [PrimaryKey(nameof(PostId),nameof(TagId))]
     public class PostTag

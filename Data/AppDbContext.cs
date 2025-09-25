@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApplication1.Models;
+using School_Project_SilksongHub.Models;
 
-namespace WebApplication1.Data
+namespace School_Project_SilksongHub.Data
 {
     public class AppDbContext: DbContext
     {
@@ -10,6 +10,6 @@ namespace WebApplication1.Data
         public DbSet<Tag> Tags => Set<Tag>();
         public DbSet<PostTag> PostTags => Set<PostTag>();
         public DbSet<PostMedia> Media => Set<PostMedia>();
-
+        public DbSet<Comment> Comments => Set<Comment>();
     }
 }

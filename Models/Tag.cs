@@ -1,7 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication1.Models
-{
+namespace School_Project_SilksongHub.Models
     public class Tag
     {
         public int Id { get; set; }

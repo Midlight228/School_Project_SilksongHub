@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Formatters;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication1.Models
+namespace School_Project_SilksongHub.Models
 {
     public enum MediaType { Image,Video }
     public class PostMedia
